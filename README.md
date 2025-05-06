@@ -69,20 +69,6 @@ A abordagem sugerida envolve o uso de **sistemas de busca inteligentes**, **arma
 
 ---
 
-## 🚀 Próximos Passos
-
-- [ ] Prototipar a aplicação de consulta de feedbacks
-- [ ] Criar um painel com visualização de dados
-- [ ] Implementar alertas automatizados com base em sentimentos negativos
-
----
-
-## 🤝 Contribuições
-
-Fique à vontade para abrir uma issue ou pull request com sugestões ou melhorias!
-
----
-
 ## 🧠 Referências Úteis
 
 - [Explore Speech Studio - Laboratório no Microsoft Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html)  
